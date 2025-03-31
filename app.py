@@ -70,7 +70,7 @@ st.markdown('**Texto em negrito** e *itálico*.')
 st.image('https://docs.streamlit.io/en/stable/_static/logo.png', caption='Logo do Streamlit')
 
 # 15. Exibição de vídeo
-st.video('https://www.youtube.com/watch?v=XiDA78wAZiY')
+st.video('https://www.youtube.com/watch?v=LMD6MqwErzc')
 
 # 16. Exibição de áudio
 st.audio('https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3')
