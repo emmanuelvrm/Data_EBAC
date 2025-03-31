@@ -60,8 +60,8 @@ st.warning('Este é um aviso.')
 st.error('Ocorreu um erro.')
 
 # 12. Código
-st.code('x = 10
-print(x)', language='python')
+st.code("""x = 10
+print(x)""", language='python')
 
 # 13. Texto em Markdown
 st.markdown('**Texto em negrito** e *itálico*.')
