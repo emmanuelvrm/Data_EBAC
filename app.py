@@ -7,6 +7,7 @@ import time
 # 1. Título e texto
 st.title('Demonstração de Funcionalidades do Streamlit')
 st.write('Esta aplicação demonstra diversas funcionalidades do Streamlit.')
+st.write('App de teste feito por Emmanuel Martins.')
 
 # 2. Exibição de DataFrame
 df = pd.DataFrame({
